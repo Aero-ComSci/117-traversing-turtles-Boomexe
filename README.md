@@ -15,9 +15,9 @@ I didn't have any questions about the activity as I worked.
 ## 
 
 ---
-# Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
-## For Regrades use the Feedback and @baeztheprog on your commit messages.
+# Video
 
+https://github.com/user-attachments/assets/4e9711fd-7c2e-47d2-a265-d10afaa193c8
 
 
 
